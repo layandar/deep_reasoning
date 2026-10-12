@@ -1,4 +1,4 @@
-\# Deep Reasoning Supplier Research Agent
+# Deep Reasoning Supplier Research Agent
 
 
 
@@ -6,7 +6,7 @@ An LLM-powered procurement research agent that analyzes a quotation, researches 
 
 
 
-\## Architecture
+## Architecture
 
 
 
@@ -22,7 +22,7 @@ An LLM-powered procurement research agent that analyzes a quotation, researches 
 
 
 
-\## Technologies
+## Technologies
 
 
 
@@ -40,7 +40,7 @@ An LLM-powered procurement research agent that analyzes a quotation, researches 
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -54,7 +54,7 @@ An LLM-powered procurement research agent that analyzes a quotation, researches 
 
 
 
-\## Setup
+## Setup
 
 
 
@@ -82,7 +82,7 @@ By default, the agent connects to the Hound MCP endpoint:
 
 
 
-\## Run
+## Run
 
 
 
@@ -98,7 +98,7 @@ Paste a quotation when prompted.
 
 
 
-\## Output
+## Output
 
 
 
@@ -120,7 +120,7 @@ The agent aims to produce:
 
 
 
-\## Security
+## Security
 
 
 
@@ -128,7 +128,7 @@ Never commit `.env` or any file containing API keys. Each user should configure 
 
 
 
-\## Limitations
+## Limitations
 
 
 
